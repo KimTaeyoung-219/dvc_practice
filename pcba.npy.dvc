@@ -1,0 +1,5 @@
+outs:
+- md5: 28566d72d147ad4e68252e3fda14fb6e
+  size: 64000128
+  hash: md5
+  path: pcba.npy
